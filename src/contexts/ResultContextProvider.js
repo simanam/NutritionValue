@@ -5,7 +5,7 @@ const ResultContext = createContext();
 const baseUrl = "https://api.nal.usda.gov/fdc/v1/foods";
 
 const params = {
-  api_key: "get your own key",
+  api_key: "#####",
   dataType: ["Survey (FNDDS)"],
   pagesize: 5,
 };
