@@ -4,7 +4,7 @@ import { useLocation } from "react-router-dom";
 import { useResultContext } from "../contexts/ResultContextProvider";
 import Nutrition from "./Nutrition";
 const params = {
-  api_key: "zCQDRXgoPAACwzVh8dTcrXxqU3pmSMf53vEQbFKg",
+  api_key: "get your own key",
   dataType: ["Survey (FNDDS)"],
   pagesize: 5,
 };
